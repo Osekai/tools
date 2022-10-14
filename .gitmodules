@@ -1,0 +1,6 @@
+[submodule "ppcalc"]
+	path = ppcalc
+	url = https://github.com/Osekai/tools-ppcalc
+[submodule "stdev-ppcalc"]
+	path = stdev-ppcalc
+	url = https://github.com/Osekai/tools-stdev_pp_calculator
